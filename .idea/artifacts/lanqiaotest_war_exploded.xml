@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="lanqiaotest:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/lanqiaotest_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="lanqiaotest/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="lanqiaotest" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
